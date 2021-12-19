@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="style_for_image">
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:layout_width">64dp</item>
+        <item name="android:layout_height">64dp</item>
+        <item name="android:src">@drawable/alba</item>
+    </style>
+
+    <style name="style_for_textview">
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>
